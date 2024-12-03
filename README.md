@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs,Websockets**
+- 🌱 I’m currently learning **Reactjs,Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [portfolio-7nhc.vercel.app](portfolio-7nhc.vercel.app)
 
